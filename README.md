@@ -1,9 +1,9 @@
 <h3>Title:</h3>
-<h6>My T.O.P. Landing Page Project</h6>
+<h6>My 3mtt Landing Page Project</h6>
 
 <h3>Description:</h3>
 <p>For descriptions and instructions about Landing Page Project. Please visit
-<a href ="https://www.theodinproject.com/lessons/foundations-landing-page">Odin Land-Page Project</a> </p>
+<a href ="https://3mtt.academy.darey.io/learning-path/cohortproject/67a7b4c9cd872d47901850c1/project/67a78b1bb489ca3abc36c3b1#67a78b1bb489ca3abc36c3b0"></a>Mini land page design </p>
 
 <h3>Goal and Skills</h3>
 <p>The goal of this project is to build a simple web page that has header, hero(main $ secondary), quote section and footer. Additionally, I will practice my current HTML and CSS skills using the knowledge I have gained thus far in my "The Odin Project" coursework.</p>
